@@ -8,3 +8,5 @@ The main scatter plot show two of the data variables such as `Healthcare vs. Pov
 The axes and labels are to the left and bottom of the chart. 
 
 Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
+
+Data Boot Camp © 2018. All Rights Reserved.
