@@ -1,6 +1,6 @@
 ## Data Journalism with D3.js
 
-The code in this repository uses HTML, JavaScript, and D3.JS to visualizae U.S. Census Bureau and the Behavioral Risk Factor Surveillance Syste data using scatter plot charts. These charts illustrate the current trends shaping people's lives, and include interactive elements to help readers understand the findings.
+The code in this repository uses HTML, JavaScript, and D3.JS to visualize U.S. Census Bureau and the Behavioral Risk Factor Surveillance Syste data using scatter plot charts. These charts illustrate the current trends shaping people's lives, and include interactive elements to help readers understand the findings.
 
 The data set included with the repository is based on 2014 ACS 1-year estimates. The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
